@@ -48,7 +48,7 @@ https://restcountries.com/v3.1/region/{region}
 ## 📦 Installation & Setup
 
 1. Clone the repository:
-   git clone <your-repo-link>
+   git clone https://github.com/zarifa1401/countries-explorer
 
 2. Navigate into the project folder:
    cd countries-explorer
@@ -64,10 +64,10 @@ https://restcountries.com/v3.1/region/{region}
 ## 📸 Screenshots
 
 ### Home Page
-![Home](.public/screenshots/1.png)
+![Home](./screenshots/1.png)
 
 ### Search Results
-![Search](.public/screenshots/search.png)
+![Search](./screenshots/search.png)
 
 ---
 
