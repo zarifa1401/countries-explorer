@@ -67,7 +67,7 @@ https://restcountries.com/v3.1/region/{region}
 ![Home](./screenshots/1.png)
 
 ### Search Results
-![Search](./screenshots/search.png)
+![Search](./screenshots/2.png)
 
 ---
 
